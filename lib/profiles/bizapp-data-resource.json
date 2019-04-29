@@ -24,11 +24,11 @@
     },
     "id": {
       "propertyOrder": 15,
-      "title": "Id",
+      "title": "ID",
       "description": "A globally unique identifier.",
-      "type": "string",
+      "type": "number",
       "examples": [
-        "{\n  \"id\": \"0b8bd486-9c8d-4ae4-b6c1-384e0490f5c2\"\n}\n"
+        "{\n  \"id\": 10\n}\n"
       ]
     },
     "pluginId": {
