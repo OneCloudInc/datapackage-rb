@@ -45,7 +45,7 @@
     "id": "output-data-resource",
     "title": "Output Data Resource",
     "schema": "/output-data-resource.json",
-    "schema_path": "/bizapp-data-resource.json",
+    "schema_path": "/output-data-resource.json",
     "specification": "https://raw.githubusercontent.com/OneCloudInc/schemas/master/json/datapackage/output-data-resource.json"
   },
   {
